@@ -32,11 +32,11 @@ export default function RootLayout({
         <meta name="viewport" content="width=device-width, initial-scale=1" />
 
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="dannys-dev-portfolio.vercel.app" />
+        <meta property="og:url" content="https://dannys-dev-portfolio.vercel.app/" />
         <meta property="og:title" content="Danny Trejo" />
         <meta property="og:description" content="Dannys development portfolio showcasing various applications built with React, 
                                                  TypeScript, Next.js and Material UI" />
-        <meta property="og:image" content="../public/thumbnail.png" />
+        <meta property="og:image" content='../public/thumbnail.png' />
 
         <link rel="icon" href="/favicon.ico" />
         <link rel="icon" href="/favicon-16x16.ico" sizes='16x16'/>
