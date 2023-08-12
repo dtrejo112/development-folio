@@ -36,7 +36,7 @@ export default function RootLayout({
         <meta property="og:title" content="Danny Trejo" />
         <meta property="og:description" content="Dannys development portfolio showcasing various applications built with React, 
                                                  TypeScript, Next.js and Material UI" />
-       <meta property="og:image" content="https://metatags.io/images/meta-tags.png" />
+       <meta property="og:image" content="https://photos.google.com/share/AF1QipMxIvsiBp2LRcYHkdoOC2W00taf43M5P0dU8RMxgNt3ZojEtwmi9jSQGnq5GiAWbg/photo/AF1QipPrApTNOO6HMuE4iPg70XmY9f5bLGFxf6_d8gqH?key=MXd5WUphMGw3LTRqejVkVU84RmpnNVQ1VTctVmN3" />
 
        <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="https://dannys-dev-portfolio.vercel.app/" />
