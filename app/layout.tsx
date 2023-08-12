@@ -30,7 +30,14 @@ export default function RootLayout({
         <title> Danny Trejo </title>
         <meta name="description" content="Danny Trejos developer portfolio"/>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta property="og:image" content={'../../public/computer.png'} />
+
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="dannys-dev-portfolio.vercel.app" />
+        <meta property="og:title" content="Danny Trejo" />
+        <meta property="og:description" content="Dannys development portfolio showcasing various applications built with React, 
+                                                 TypeScript, Next.js and Material UI" />
+        <meta property="og:image" content="../public/thumbnail.png" />
+
         <link rel="icon" href="/favicon.ico" />
         <link rel="icon" href="/favicon-16x16.ico" sizes='16x16'/>
       <ThemeProvider theme={isDark ? darkTheme : lightTheme}> 
